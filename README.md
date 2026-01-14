@@ -78,5 +78,7 @@ Porque en cada pasada, el elemento más grande **sube** al final de la lista, ig
   * intercambio de valores
 
 ## Repositorio
-[Repositorio de la aplicación]()
+[Repositorio de la aplicación](https://github.com/dgamarra/ordenamiento-burbuja.git)
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
